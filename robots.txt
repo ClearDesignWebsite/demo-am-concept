@@ -1,0 +1,9 @@
+# Maquette ClearDesign en cours de validation.
+# Elle ne doit pas concurrencer amconcept.archi tant qu'Antony Moine n'a pas decide.
+User-agent: *
+Disallow: /
+
+# A la mise en ligne definitive, remplacer par :
+# User-agent: *
+# Allow: /
+Sitemap: https://cleardesignwebsite.github.io/demo-am-concept/sitemap.xml
